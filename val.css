@@ -1,0 +1,17 @@
+h1{
+    font-size:64px;
+     color: red;
+}
+p{ 
+    color:rgb(255, 0, 0);
+} 
+body{
+    background-image: url("bg.gif");
+background-repeat: no-repeat;
+  background-size: 5000px 2000px;
+}
+h3{
+font-size:50px;
+color:#EE4B2B
+}
+
